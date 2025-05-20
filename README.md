@@ -40,8 +40,6 @@ This project demonstrates how to interface a **joystick module** with an **Ardui
 | Anode (+)     | D8 (via 220Ω resistor) |
 | Cathode (–)   | GND         |
 
----
-
 ## 📦 Library Dependencies
 
 Install the following libraries via **Arduino Library Manager**:
