@@ -42,7 +42,7 @@ This project demonstrates how to interface a **joystick module** with an **Ardui
 
 ## Circuit
 
-![~](media/Joystick_with_OLED_Screen.png)
+<img src="media/Joystick_with_OLED_Screen.png" style="width:550px;"/>
 
 ## 📦 Library Dependencies
 
