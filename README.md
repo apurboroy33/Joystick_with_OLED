@@ -40,7 +40,7 @@ This project demonstrates how to interface a **joystick module** with an **Ardui
 | Anode (+)     | D8 (via 220Ω resistor) |
 | Cathode (–)   | GND         |
 
-## Circuit
+## 🔌 Circuit
 
 <img src="media/Joystick_with_OLED_Screen.png" style="width:550px;"/>
 
@@ -50,3 +50,11 @@ Install the following libraries via **Arduino Library Manager**:
 
 - [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306)
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
+
+## 🖱️ Uploading the code
+
+- After all the connections are made up, open the source code (present in src folder) in **Arduino IDE**.
+- Click **Compile** first (check for any errors), then hit **Upload**.
+- After a few seconds, your Arduino Uno will run the code and your project will work like a charm.
+
+## 🚀 Future Enhancements
