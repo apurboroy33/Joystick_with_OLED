@@ -53,7 +53,7 @@ Install the following libraries via **Arduino Library Manager**:
 
 ## 🖱️ Uploading the code
 
-- After all the connections are made up, open the source code (present in src folder) in **Arduino IDE**.
+- After all the connections are made up, open the source code (present in [src](src/joystick_oled.ino) folder) in **Arduino IDE**.
 - Click **Compile** first (check for any errors), then hit **Upload**.
 - After a few seconds, your Arduino Uno will run the code and your project will work like a charm.
 
