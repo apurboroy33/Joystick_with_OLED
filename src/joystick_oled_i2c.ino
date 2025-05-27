@@ -1,3 +1,7 @@
+/* 
+Arduino Code for I2C SSD1306 OLED Display with Arduino
+*/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
