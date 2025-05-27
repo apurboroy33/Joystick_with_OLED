@@ -1,6 +1,6 @@
 /*
 Source code for SPI SSD1306 OLED Display with Arduino
-Uses the SPI.h library
+Uses the SPI.h library for SPI communication
 */
 
 #include <SPI.h>
