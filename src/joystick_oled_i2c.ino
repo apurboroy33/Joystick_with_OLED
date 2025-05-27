@@ -1,5 +1,6 @@
 /* 
-Arduino Code for I2C SSD1306 OLED Display with Arduino
+Source Code for I2C SSD1306 OLED Display with Arduino
+Uses the "Wire.h" library for I2C communication
 */
 
 #include <Wire.h>
