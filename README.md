@@ -1,4 +1,4 @@
-# Joystick_with_OLED_Screen
+# Joystick_with_OLED
 
 ## 🎮 Arduino Joystick with OLED Display and LED Indicator
 
