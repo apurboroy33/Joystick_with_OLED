@@ -1,3 +1,7 @@
+/*
+Source code for SSD1306 OLED Display testing using SPI communication
+*/
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
@@ -29,8 +33,8 @@ void setup() {
   display.setTextColor(SSD1306_WHITE); // Draw white text
   display.setCursor(0, 10);           // Start at top-left corner
 
-  display.println("Hello, Apurbo!");
-  display.println("Welcome to OLED :)");
+  display.println("Hello there!");
+  display.println("Your OLED works!");
 
   display.display(); // Show the display buffer on the screen
 }
