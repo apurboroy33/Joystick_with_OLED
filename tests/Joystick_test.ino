@@ -1,3 +1,7 @@
+/*
+Source code for testing of Joystick module
+*/
+
 // Define joystick pins
 const int VRx = A0; // X-axis
 const int VRy = A1; // Y-axis
