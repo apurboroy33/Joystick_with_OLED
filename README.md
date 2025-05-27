@@ -103,7 +103,7 @@ Take the following precautions to ensure safe and reliable operation of your OLE
 - Avoid drawing more than **20mA** from a single pin.
 
 ### Debugging Tips
-- Test OLED and joystick **individually first**, then combine. (For individual testing, check out  folder for more info.)
+- Test OLED and joystick **individually first**, then combine. (For individual testing, check out [tests](tests) folder for more info.)
 - Use **Serial Monitor** to check raw analog readings during development.
 - Add delays (`delay(100–200ms)`) in the loop to avoid flickering and serial flooding.
 
